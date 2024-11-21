@@ -1,5 +1,11 @@
 [
-  { "domain": "yydss.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2025-11-15", "system": "l53.net", "systemURL": "https://customer.l53.net" },
+  { "domain": "yyds0.us.kg", "registrationDate": "2024-11-1", "expirationDate": "2025-11-1", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "yydso.us.kg", "registrationDate": "2024-11-1", "expirationDate": "2025-11-1", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "yydsoo.us.kg", "registrationDate": "2024-11-1", "expirationDate": "2025-11-1", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "nienie.us.kg", "registrationDate": "2024-11-2", "expirationDate": "2025-11-2", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "cosmos.us.kg", "registrationDate": "2024-11-2", "expirationDate": "2025-11-2", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "cosmic.us.kg", "registrationDate": "2024-11-2", "expirationDate": "2025-11-2", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+{ "domain": "yydss.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2025-11-15", "system": "l53.net", "systemURL": "https://customer.l53.net" },
 { "domain": "yydso.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2025-11-15", "system": "l53.net", "systemURL": "https://customer.l53.net" },
 { "domain": "yyds0.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2025-11-15", "system": "l53.net", "systemURL": "https://customer.l53.net" },
   { "domain": "yoyoo.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2025-11-15", "system": "l53.net", "systemURL": "https://customer.l53.net" },
