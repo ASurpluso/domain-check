@@ -1,4 +1,7 @@
 [
+  { "domain": "melt.us.kg", "registrationDate": "2024-11-23", "expirationDate": "2025-11-23", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "noso.us.kg", "registrationDate": "2024-11-23", "expirationDate": "2025-11-23", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "noss.us.kg", "registrationDate": "2024-11-23", "expirationDate": "2025-11-23", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },  
   { "domain": "yyds0.us.kg", "registrationDate": "2024-11-1", "expirationDate": "2025-11-1", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
   { "domain": "yydso.us.kg", "registrationDate": "2024-11-1", "expirationDate": "2025-11-1", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
   { "domain": "yydsoo.us.kg", "registrationDate": "2024-11-1", "expirationDate": "2025-11-1", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
