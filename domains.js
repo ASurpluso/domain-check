@@ -1,4 +1,9 @@
 [
+  { "domain": "ceee.nyc.mn", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn/login/" },
+  { "domain": "lvvv.nyc.mn", "registrationDate": "2025-03-28", "expirationDate": "2026-03-28", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn/login/" },
+  { "domain": "klll.nyc.mn", "registrationDate": "2025-03-28", "expirationDate": "2026-03-28", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn/login/" },
+  { "domain": "csss.nyc.mn", "registrationDate": "2025-03-29", "expirationDate": "2026-03-29", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn/login/" },
+  { "domain": "nnyy.nyc.mn", "registrationDate": "2025-03-29", "expirationDate": "2026-03-29", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn/login/" },
   { "domain": "eee.us.kg", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
   { "domain": "vvv.us.kg", "registrationDate": "2025-03-28", "expirationDate": "2026-03-28", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
   { "domain": "sis.us.kg", "registrationDate": "2025-03-31", "expirationDate": "2026-03-31", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
