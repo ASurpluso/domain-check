@@ -20,6 +20,8 @@
   { "domain": "melt.dpdns.org", "registrationDate": "2024-11-23", "expirationDate": "2025-11-23", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
   { "domain": "noss.dpdns.org", "registrationDate": "2024-11-23", "expirationDate": "2025-11-23", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },
   { "domain": "noso.dpdns.org", "registrationDate": "2024-11-23", "expirationDate": "2025-11-23", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" }, 
+  { "domain": "lll.xx.kg", "registrationDate": "2025-05-05", "expirationDate": "2026-05-05", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" }, 
+  { "domain": "xix.xx.kg", "registrationDate": "2025-05-05", "expirationDate": "2026-05-05", "system": "US.KG(180天内renew)", "systemURL": "https://register.us.kg/panel/main" },   
   { "domain": "svs.publicvm.com", "registrationDate": "2024-12-10", "expirationDate": "2025-12-10", "system": "dnsexit(30天内renew)", "systemURL": "https://dnsexit.com/" },
   { "domain": "svs.linkpc.net", "registrationDate": "2024-12-10", "expirationDate": "2025-12-10", "system": "dnsexit(30天内renew)", "systemURL": "https://dnsexit.com/" },
   { "domain": "svs.work.gd", "registrationDate": "2024-12-10", "expirationDate": "2025-12-10", "system": "dnsexit(30天内renew)", "systemURL": "https://dnsexit.com/" },
