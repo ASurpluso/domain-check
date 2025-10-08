@@ -1,4 +1,6 @@
 [
+  { "domain": "699689.xyz", "registrationDate": "2025-02-24", "expirationDate": "2035-02-24", "system": "nyc.mn", "systemURL": "https://www.spaceship.com/" },
+  { "domain": "888169.xyz", "registrationDate": "2025-10-09", "expirationDate": "2030-10-09", "system": "nyc.mn", "systemURL": "https://www.spaceship.com/" },
   { "domain": "ceee.nyc.mn", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn/login/" },
   { "domain": "lvvv.nyc.mn", "registrationDate": "2025-03-28", "expirationDate": "2026-03-28", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn/login/" },
   { "domain": "klll.nyc.mn", "registrationDate": "2025-03-28", "expirationDate": "2026-03-28", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn/login/" },
@@ -25,6 +27,7 @@
   { "domain": "svs.publicvm.com", "registrationDate": "2024-12-10", "expirationDate": "2025-12-10", "system": "dnsexit(30天内renew)", "systemURL": "https://dnsexit.com/" },
   { "domain": "svs.linkpc.net", "registrationDate": "2024-12-10", "expirationDate": "2025-12-10", "system": "dnsexit(30天内renew)", "systemURL": "https://dnsexit.com/" },
   { "domain": "svs.work.gd", "registrationDate": "2024-12-10", "expirationDate": "2025-12-10", "system": "dnsexit(30天内renew)", "systemURL": "https://dnsexit.com/" },
+  { "domain": "sisky.ggff.net", "registrationDate": "2025-10-09", "expirationDate": "2026-10-09", "system": "l53.net", "systemURL": "https://customer.l53.net" },
   { "domain": "yydss.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2025-11-15", "system": "l53.net", "systemURL": "https://customer.l53.net" },
   { "domain": "yydso.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2025-11-15", "system": "l53.net", "systemURL": "https://customer.l53.net" },
   { "domain": "yyds0.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2025-11-15", "system": "l53.net", "systemURL": "https://customer.l53.net" },
